@@ -1,2 +1,2 @@
-# curso-bootstrap
+# site-curso-bootstrap
 Usando o Bootstrap
